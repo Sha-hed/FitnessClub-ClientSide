@@ -6,3 +6,7 @@
 <p>1. Admin, Trainer, User Dashboards: The platform includes distinct dashboards and authentication systems for admins, trainers, and users, ensuring a tailored experience for each role.</p>
 <p>2. Admin Control: Only admins have the authority to add and modify classes, as well as approve users for the trainer role.</p>
 <p>3. Stripe Payment Gateway Integration</p>
+<p>Technology Used in this Project:</p>
+<p>HTML, CSS, JavaScript, React, Express.js, MongoDB</p>
+<p>What to Do to Run This Project:</p>
+<p>To run this project, you need to install the necessary npm packages and add Firebase secret keys.</p>
